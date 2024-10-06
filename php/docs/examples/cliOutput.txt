@@ -1,0 +1,35 @@
++----------------------+---------+------------+-----------+
+| File                 | Version | Extensions | Constants |
++----------------------+---------+------------+-----------+
+| ..\..\CompatInfo.php | 4.3.0   | tokenizer  |           |
+|                      |         | sockets    |           |
++----------------------+---------+------------+-----------+
+
+Debug:
+
++---------+-------------------+---------------+
+| Version | Function          | Extension     |
++---------+-------------------+---------------+
+| 4.3.0   | file_get_contents | ext_standard  |
+| 4.2.0   | token_get_all     | ext_tokenizer |
+| 4.1.0   | version_compare   | ext_standard  |
+| 4.0.6   | array_map         | ext_standard  |
+| 4.0.3   | pathinfo          | ext_standard  |
+| 4.0.2   | read              | ext_sockets   |
+| 4.0.2   | close             | ext_sockets   |
+| 4.0.1   | array_unique      | ext_standard  |
+| 4.0.0   | array_merge       | ext_standard  |
+| 4.0.0   | strlen            | zend          |
+| 4.0.0   | substr            | ext_standard  |
+| 4.0.0   | is_dir            | ext_standard  |
+| 4.0.0   | is_readable       | ext_standard  |
+| 4.0.0   | in_array          | ext_standard  |
+| 4.0.0   | strtolower        | ext_standard  |
+| 4.0.0   | sizeof            | ext_standard  |
+| 4.0.0   | array_reverse     | ext_standard  |
+| 4.0.0   | ksort             | ext_standard  |
+| 4.0.0   | is_string         | ext_standard  |
+| 4.0.0   | dir               | ext_standard  |
+| 4.0.0   | is_file           | ext_standard  |
+| 4.0.0   | is_array          | ext_standard  |
++---------+-------------------+---------------+

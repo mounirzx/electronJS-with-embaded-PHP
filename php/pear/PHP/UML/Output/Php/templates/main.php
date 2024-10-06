@@ -1,0 +1,5 @@
+<?php
+#HEADER
+#NAMESPACE
+#DETAIL
+?>
